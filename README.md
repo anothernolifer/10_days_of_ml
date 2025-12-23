@@ -1,3 +1,3 @@
-# 30_day_coding
+# 10 days coding
 
-30 days coding of ai and data science
+30 days coding of ai , data science , machine learning
